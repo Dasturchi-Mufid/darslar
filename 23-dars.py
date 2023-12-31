@@ -50,6 +50,6 @@
 #     lines = f.readlines()
 #     print(lines[1])
 
-with open('js.txt','w') as f:
-    lines = ['JS is also awesome\n','JS is my second programming language']
-    f.writelines(lines)
+# with open('js.txt','w') as f:
+#     lines = ['JS is also awesome\n','JS is my second programming language']
+#     f.writelines(lines)
